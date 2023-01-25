@@ -1,0 +1,66 @@
+/* About me Section */
+
+.aboutMe{
+    background-color: #d9d9d9;
+    height: auto;
+    width: auto;
+    text-align: center;
+    padding-top: 73px;
+}
+
+.aboutMeHeader{
+    height: 77px;
+    font-size: 50px;
+    padding-bottom: 26px;
+}
+
+.aboutMePara{
+    padding: 0 25% 0;
+    font-size: 25px;
+    padding-bottom: 117px;
+}
+
+/* University Section */
+
+.university{
+    height: auto;
+    width: auto;
+    text-align: center;
+    padding-top: 73px;
+    background-color: black;
+    color: white;
+}
+
+.universityHeader{
+    height: 77px;
+    font-size: 50px;
+    padding-bottom: 26px;
+}
+
+.universityPara{
+    padding: 0 25% 25%;
+    font-size: 25px;
+    padding-bottom: 117px;
+}
+
+/* Udemy Section */
+
+.udemy{
+    background-color: #d9d9d9;
+    height: auto;
+    width: auto;
+    text-align: center;
+    padding-top: 73px;
+}
+
+.udemyHeader{
+    height: 77px;
+    font-size: 50px;
+    padding-bottom: 26px;
+}
+
+.udemyPara{
+    padding: 0 25% 0;
+    font-size: 25px;
+    padding-bottom: 117px;
+}

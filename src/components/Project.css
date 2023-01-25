@@ -1,0 +1,33 @@
+.projectRoot{
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-bottom: 10px;
+    background-color: aqua;
+}
+
+.projectTitle{
+    font-size: 50px;
+    text-align: center;
+}
+
+.projectContainer{
+    justify-content: space-between;
+    display: flex;
+    padding: 20px;
+}
+
+.projectLink{
+    text-align: center;
+    font-size: 30px;
+    padding: 20px;
+}
+
+.projectDesc{
+    font-size: 25px;
+}
+
+.image{
+    width: 250px;
+    height: auto;
+    padding-right: 30px;
+}
